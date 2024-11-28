@@ -1,9 +1,9 @@
 ## Hi there 👋
 <a href="https://github.com/jaehyonii">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jaehyonii&show_icons=true&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jaehyonii&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=merko" />
 </a>
 <a href="https://github.com/jaehyonii">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaehyonii&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaehyonii&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&card_width=320&langs_count=3&hide_border=true&theme=github_dark" />
 </a>
 
 <!--
