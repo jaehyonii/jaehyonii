@@ -1,5 +1,4 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehyonii&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut)](https://github.com/jaehyonii)
 <a href="https://github.com/jaehyonii">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jaehyonii&show_icons=true&theme=merko" />
 </a>
