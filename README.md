@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![jaehyonii's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehyonii&show_icons=true&theme=merko)](https://github.com/jaehyonii)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehyonii&size_weight=0.5&count_weight=0.5)](https://github.com/jaehyonii)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehyonii&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut)](https://github.com/jaehyonii)
 
 <!--
 **jaehyonii/jaehyonii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
