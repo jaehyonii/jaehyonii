@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img alt="Python" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 <a href="https://github.com/jaehyonii">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jaehyonii&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=merko" />
