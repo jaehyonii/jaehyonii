@@ -39,7 +39,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@jaehyonii" target=blank>
+  <a href="https://velog.io/@jaehyonii" target="_blank">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="mailto:kk2007pp@gmail.com">
